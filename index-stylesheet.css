@@ -1,0 +1,15 @@
+.display-4{
+    text-align: center;
+}
+
+
+img{
+    width: 50%;
+    margin: auto;
+    width: 150px;
+    border: 10px solid #ddd;
+}
+
+.container-fluid{
+    text-align: center;
+}
