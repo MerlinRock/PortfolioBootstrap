@@ -3,16 +3,12 @@
 }
 
 
-img{
-    width: 100%;
+/* img{
+    width: 50%;
     margin: auto;
-    height: 20px;
-}
+    height:400px;
+} */
 
 .container-fluid{
     text-align: center;
 }
-
-/* @media screen and (max-width:400px){
-    img {height:400px;}
-} */
