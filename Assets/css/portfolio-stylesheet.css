@@ -2,6 +2,6 @@ h1{
     border-bottom: solid lightgray 2px;
 }
 
-.container{
-    margin-left: 100px;
+hr {
+    border-style: groove;
 }
